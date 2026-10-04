@@ -1,0 +1,100 @@
+{
+  "name": "Jordan Reyes",
+  "last_updated": "4 October 2026",
+  "contact": {
+    "location": "Northbridge, UK",
+    "email": "jordan@example.com",
+    "link": "https://www.linkedin.com/in/example",
+    "link_label": "LinkedIn"
+  },
+  "sections": [
+    {
+      "heading": "Education",
+      "entries": [
+        {
+          "title": "University of Northbridge",
+          "where": "Northbridge, UK",
+          "subtitle": "BSc (Hons) Biomedical Sciences",
+          "dates": "Sept 2023 – June 2027",
+          "bullets": [
+            [
+              [
+                "Grades: ",
+                true
+              ],
+              [
+                "68% second-year average; Data Analysis in R 81%, Neurobiology 72%.",
+                false
+              ]
+            ],
+            [
+              [
+                "Dissertation: ",
+                true
+              ],
+              [
+                "Built an R pipeline to measure and compare microglial branching across 40 images.",
+                false
+              ]
+            ]
+          ]
+        },
+        {
+          "title": "Northbridge Sixth Form College",
+          "where": "Northbridge, UK",
+          "subtitle": "A levels",
+          "dates": "2021 – 2023",
+          "bullets": [
+            "Biology A*, Chemistry A, Mathematics B."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Research & Work Experience",
+      "entries": [
+        {
+          "title": "Summer Research Student",
+          "where": "London, UK",
+          "subtitle": "Example Neuroscience Institute",
+          "dates": "Jul – Aug 2026 (8 weeks)",
+          "bullets": [
+            "Imaged cultured neurons on a confocal microscope and quantified neurite length in Fiji across 3 experimental conditions, the same imaging and analysis workflow an imaging core supports."
+          ]
+        },
+        {
+          "title": "Laboratory Assistant (part-time)",
+          "where": "Northbridge, UK",
+          "subtitle": "University of Northbridge teaching labs",
+          "dates": "Jan 2025 – Present",
+          "bullets": [
+            "Prepared reagents and equipment for practical classes of up to 120 students."
+          ]
+        },
+        {
+          "title": "Treasurer",
+          "where": "Northbridge, UK",
+          "subtitle": "Northbridge Neuroscience Society",
+          "dates": "2025 – 2026",
+          "bullets": [
+            "Managed a £3,000 budget."
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    [
+      "Lab",
+      "Cell culture | Immunocytochemistry | Confocal microscopy | PCR"
+    ],
+    [
+      "Software",
+      "R (tidyverse, ggplot2) | Fiji | Excel"
+    ],
+    [
+      "Languages",
+      "English (native) | French (B1)"
+    ]
+  ]
+}

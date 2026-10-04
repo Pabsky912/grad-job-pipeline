@@ -1,0 +1,35 @@
+{
+  "updated": "",
+  "name": "",
+  "spelling": "british",
+  "start_from": "",
+  "graduation": "",
+  "part_time_before_start": false,
+  "tracks": [
+    {
+      "id": "example-track",
+      "label": "Replace during onboarding",
+      "priority": 1,
+      "keywords": [],
+      "titles": [],
+      "fields": []
+    }
+  ],
+  "locations": {
+    "preferred": [],
+    "acceptable": [],
+    "remote_ok": true,
+    "relocate": false,
+    "never": []
+  },
+  "work_rights": "",
+  "languages": [],
+  "salary_min": null,
+  "likes": [],
+  "dislikes": [],
+  "ruleouts": [],
+  "watchouts": [],
+  "weekly_targets": {"applications": 5, "outreach": 5},
+  "updates": "every 3 days",
+  "weights": {"interest": 0.5, "skills": 0.25, "eligibility": 0.15, "logistics": 0.1}
+}

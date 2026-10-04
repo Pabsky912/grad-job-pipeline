@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grad-job-pipeline//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Job search deadlines
+BEGIN:VEVENT
+UID:deadline-jobsacuk-EX1001@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Deadline: Research Assistant\, Imaging Core · Example Neuroscien
+ ce Institute
+DESCRIPTION:Runs confocal and light-sheet imaging for several neuroscienc
+ e groups and supports image analysis.\nVerdict: strong 5/5\nStatus: new\n
+ https://example.com/jobs/ex1001
+TRANSP:TRANSPARENT
+URL:https://example.com/jobs/ex1001
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Research Assistant\, Imaging Core · Example Neuros
+ cience Institute
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Research Assistant\, Imaging Core · Example Neuros
+ cience Institute
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-gh-examplebiotech-4001@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Deadline: R&D Graduate Programme 2027 · Example Biotech Ltd
+DESCRIPTION:Two-year rotational programme across assay development\, imag
+ ing and data science.\nVerdict: worth 4/5\nStatus: shortlist\nhttps://exa
+ mple.com/jobs/4001
+TRANSP:TRANSPARENT
+URL:https://example.com/jobs/4001
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: R&D Graduate Programme 2027 · Example Biotech Ltd
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: R&D Graduate Programme 2027 · Example Biotech Ltd
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:next-gh-examplebiotech-4001@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:To do: Book the online test slot (Example Biotech Ltd)
+DESCRIPTION:Two-year rotational programme across assay development\, imag
+ ing and data science.\nVerdict: worth 4/5\nStatus: shortlist\nhttps://exa
+ mple.com/jobs/4001
+TRANSP:TRANSPARENT
+URL:https://example.com/jobs/4001
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:To do: Book the online test slot (Example Biotech Ltd)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:next-example-uni-research-technician@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:To do: Ask about a summer start if shortlisted (University of Exa
+ mple)
+DESCRIPTION:Cell culture and PCR support for a cell biology group.\nVerdi
+ ct: worth 4/5\nStatus: applied\nhttps://example.com/jobs/tech
+TRANSP:TRANSPARENT
+URL:https://example.com/jobs/tech
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:To do: Ask about a summer start if shortlisted (University of
+  Example)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-example-masters-neuro@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: MSc Neuroscience (2028 entry): scholarship call · Exam
+ ple University
+DESCRIPTION:Funded MSc places for 2028 entry\; call opens next month.\nVe
+ rdict: worth 4/5\nStatus: later\nhttps://example.com/msc
+TRANSP:TRANSPARENT
+URL:https://example.com/msc
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MSc Neuroscience (2028 entry): scholarship call · 
+ Example University
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MSc Neuroscience (2028 entry): scholarship call · 
+ Example University
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:opens-example-masters-neuro@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Opens: MSc Neuroscience (2028 entry): scholarship call · Example
+  University
+DESCRIPTION:Funded MSc places for 2028 entry\; call opens next month.\nVe
+ rdict: worth 4/5\nStatus: later\nhttps://example.com/msc
+TRANSP:TRANSPARENT
+URL:https://example.com/msc
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Opens: MSc Neuroscience (2028 entry): scholarship call · Exa
+ mple University
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-dr-a-example@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Follow up: Dr A. Example (Example Neuroscience Institute)
+DESCRIPTION:Send a short question about the role before applying
+TRANSP:TRANSPARENT
+URL:https://example.com/people/a-example
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up: Dr A. Example (Example Neuroscience Institute)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:contact-sam-alumni-examplebiotech@grad-job-pipeline
+DTSTAMP:20261004T170953Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Follow up: Sam Alumni (Example Biotech Ltd)
+DESCRIPTION:Send M3 nudge or close
+TRANSP:TRANSPARENT
+URL:https://www.linkedin.com/in/example
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up: Sam Alumni (Example Biotech Ltd)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

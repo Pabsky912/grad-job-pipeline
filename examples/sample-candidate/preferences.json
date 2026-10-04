@@ -1,0 +1,124 @@
+{
+  "updated": "2026-10-04",
+  "name": "Jordan",
+  "spelling": "british",
+  "start_from": "2027-07-01",
+  "graduation": "2027-06-20",
+  "part_time_before_start": true,
+  "tracks": [
+    {
+      "id": "research-assistant",
+      "label": "Research assistant (neuro and cell biology)",
+      "priority": 1,
+      "keywords": [
+        "research assistant",
+        "research technician",
+        "laboratory technician"
+      ],
+      "titles": [
+        "Research Assistant",
+        "Research Technician",
+        "Junior Research Associate"
+      ],
+      "fields": [
+        "neuroscience",
+        "cell biology",
+        "imaging"
+      ]
+    },
+    {
+      "id": "grad-scheme",
+      "label": "Biotech and pharma graduate schemes",
+      "priority": 2,
+      "keywords": [
+        "graduate programme",
+        "graduate scheme"
+      ],
+      "titles": [
+        "Graduate Scientist",
+        "R&D Graduate"
+      ],
+      "fields": [
+        "biotech",
+        "pharma"
+      ]
+    },
+    {
+      "id": "health-data",
+      "label": "Health data and analytics",
+      "priority": 3,
+      "keywords": [
+        "graduate data analyst",
+        "junior data scientist"
+      ],
+      "titles": [
+        "Graduate Data Analyst"
+      ],
+      "fields": [
+        "health",
+        "life sciences"
+      ]
+    },
+    {
+      "id": "masters",
+      "label": "Funded Master's in neuroscience (2028 entry)",
+      "priority": 4,
+      "keywords": [
+        "MSc neuroscience",
+        "scholarship"
+      ],
+      "titles": [],
+      "fields": [
+        "neuroscience"
+      ]
+    }
+  ],
+  "locations": {
+    "preferred": [
+      "London",
+      "Cambridge",
+      "Northbridge"
+    ],
+    "acceptable": [
+      "United Kingdom"
+    ],
+    "remote_ok": true,
+    "relocate": true,
+    "never": []
+  },
+  "work_rights": "UK citizen",
+  "languages": [
+    "English (native)",
+    "French (B1)"
+  ],
+  "salary_min": null,
+  "likes": [
+    "microscopy and image analysis",
+    "turning messy data into clear charts",
+    "small teams"
+  ],
+  "dislikes": [
+    "sales or business development targets",
+    "pure data entry"
+  ],
+  "ruleouts": [
+    "requires a PhD or completed Master's",
+    "penultimate-year students only",
+    "full-time on site before July 2027"
+  ],
+  "watchouts": [
+    "fixed-term under 12 months",
+    "animal work"
+  ],
+  "weekly_targets": {
+    "applications": 4,
+    "outreach": 5
+  },
+  "updates": "every 3 days",
+  "weights": {
+    "interest": 0.5,
+    "skills": 0.25,
+    "eligibility": 0.15,
+    "logistics": 0.1
+  }
+}

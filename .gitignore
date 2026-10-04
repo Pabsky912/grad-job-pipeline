@@ -1,0 +1,13 @@
+# Your personal workspace: never commit it
+my-search/
+*.backup
+.backup/
+
+# Generated files outside the example
+*.pyc
+__pycache__/
+node_modules/
+package-lock.json
+.DS_Store
+Thumbs.db
+~$*.xlsx
